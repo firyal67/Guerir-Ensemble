@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Rediriger vers la page de connexion
         setTimeout(() => {
-            window.location.href = 'connexion.html';
+            window.location.href = '/html/connexion.html';
         }, 2500);
     });
 });

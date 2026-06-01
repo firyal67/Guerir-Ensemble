@@ -53,7 +53,7 @@ function updateNavForLoggedInUser(userData) {
 function logout() {
     if (confirm('Êtes-vous sûr de vouloir vous déconnecter ?')) {
         localStorage.removeItem('currentUser');
-        window.location.href = 'index.html';
+        window.location.href = '/';
     }
 }
 

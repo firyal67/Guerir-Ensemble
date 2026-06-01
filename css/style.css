@@ -642,21 +642,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .video-autoexamen {
-    background-image: url('../assets/autoexamen.jpg');
+    background-image: url('/assets/autoexamen.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.15) contrast(1.1) saturate(1.1);
 }
 
 .video-mammographie {
-    background-image: url('../assets/mammographie.jpg');
+    background-image: url('/assets/mammographie.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.15) contrast(1.1) saturate(1.1);
 }
 
 .video-temoignage {
-    background-image: url('../assets/temoignage.jpg');
+    background-image: url('/assets/temoignage.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.15) contrast(1.1) saturate(1.1);
@@ -756,7 +756,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 15px 15px 0 0;
 }
 .event-img-1 {
-    background-image: url('../assets/mar.jpg');
+    background-image: url('/assets/mar.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.1) contrast(1.05) saturate(1.1);
@@ -769,21 +769,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .event-img-3 {
-    background-image: url('../assets/paris.jpg');
+    background-image: url('/assets/paris.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.1) contrast(1.05) saturate(1.1);
 }
 
 .event-img-4 {
-    background-image: url('../assets/course.jpg');
+    background-image: url('/assets/course.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.1) contrast(1.05) saturate(1.1);
 }
 
 .event-img-5 {
-    background-image: url('../assets/atelier.jpg');
+    background-image: url('/assets/atelier.jpg');
     background-size: cover;
     background-position: center;
     filter: brightness(1.1) contrast(1.05) saturate(1.1);

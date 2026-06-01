@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const userData = JSON.parse(currentUser);
         showWelcomeMessage(userData);
         setTimeout(() => {
-            window.location.href = 'index.html';
+            window.location.href = '/';
         }, 2000);
         return;
     }
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         // Rediriger vers la page d'accueil
         setTimeout(() => {
-            window.location.href = 'index.html';
+            window.location.href = '/';
         }, 2000);
     });
 });
